@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Animated Portfolio
 Welcome to my beautifully animated portfolio, built with React and styled with Tailwind CSS. This project showcases my skills, projects, and professional journey through an engaging, modern, and fully responsive design. It leverages a variety of cutting-edge technologies to create smooth animations and an intuitive user experience.
 
@@ -24,3 +25,13 @@ The project is structured to maintain a clear separation of concerns, with dedic
 |-- /styles           # Custom CSS and Tailwind configuration
 |-- /pages            # Page-level components
 |-- /utils            # Utility functions and helpers
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 1321a4f (Initial commit)
