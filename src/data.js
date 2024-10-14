@@ -1,15 +1,15 @@
-import Project1 from './Assets/movieProject.png'
-import Project2 from './Assets/liveChatApp.png'
-import CodSoft from './Assets/codSoft.png';
-import Cybersecurity_Essentials_page from './Assets/Cs_es.png'
-import C_plus from './Assets/c++.png'
-import introCy from './Assets/introCy.png'
-import JavaScript from './Assets/Javascript.png'
+import Project1 from './Assets/movieproject.png'
+import Project2 from './Assets/livechatappp.png'
+import CodSoft from './Assets/codsoft.png';
+import Cybersecurity_Essentials_page from './Assets/cse.png'
+import C_plus from './Assets/c_plus.png'
+import introCy from './Assets/introcy.png'
+import JavaScript from './Assets/javascript.png'
 import Sql from './Assets/sql.png'
 import Packer from './Assets/packet.png'
-import MERN from './Assets/Mern.png'
+import MERN from './Assets/mern.png'
 import yp from './Assets/yp.png'
-import Analtic from './Assets/Analytics.png'
+import Analtic from './Assets/analytics.png'
 
 export const projects = [
     {
